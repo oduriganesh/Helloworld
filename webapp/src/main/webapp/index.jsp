@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 <h2> How Merge Works </h2>
 <h2> Both commited changes at same time </h2>
-
+<h3> test</h3>
 =======
 <h2> testing with multiple scenarios and doing merging </h2>
 <h2> suez aquried GE water and it is suez water - ganesh commit </h2>
