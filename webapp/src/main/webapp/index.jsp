@@ -1,3 +1,3 @@
-<h1 align=center>  Hello, welcome to devops world -SUCCESSSSSSSSSSSSSSSSSSSSS --- !!! </h1>
-<h2> testing with timestamp -- date and timestamp mentioned </h2>
-<h2> murthy commit </h2>
+<h1 align=center>  Hello, Welcome To Dev Ops World!!! </h1>
+<h2> Code Commit - Jenkins - Tomcat </h2>
+<h2> Simple CICD example </h2>
